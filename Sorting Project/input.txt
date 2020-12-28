@@ -1,0 +1,124 @@
+Baker,Tom
+1259.23
+Smith,Sarah
+1404.34
+Eccleston,Christopher
+1411.56
+Tyler,Rose
+1415.67
+Tennant,David
+1313.00
+Noble,Donna
+1250.43
+Smith,Matt
+1433.65
+Pond,Amy
+1204.07
+Capaldi,Peter
+1125.54
+Oswald,Clara
+884.56
+Song, River
+987.37
+Nardole
+1278.09
+Potts, Bill
+234.09
+Williams, Rory
+345.67
+Kingston, Alex
+789.00
+Jones, Martha
+987.00
+Nobel, Donna
+1234.09
+Harkness, Jack
+1345.00
+Tyler, Rose
+908.00
+Smith, Micky
+1100.00
+Picard, Luc
+1239.00
+Sisko, Jennifer
+998.99
+Number One
+1300.00
+O'Brien, Miles
+1100.00
+Paris, Tom
+222.22
+Phlox
+899.00
+Pike, Christopher
+222.00
+Pulaski, Katherine
+1289.00
+Q
+1299.00
+Rand, Janice
+1200.00
+Riker, William
+991.10
+Saavik
+1001.00
+Sasto, Hoshi
+876.66
+of Nine, Seven
+1000.00
+Yar, Tasha
+444.44
+Sisko, Benjamin
+999.99
+Sisko, Jake
+222.00
+Torres, B'Elanna
+1100.11
+Troi, Deanna
+100.00
+Crusher, Wesley
+987.00
+Worf
+1100.00
+Kirk, James T.
+1456.00
+Spock
+2340.00
+Bashir, Julian
+234.00
+Borg Queen 
+1345.99
+Chekov, Pavel
+345.09
+Chapel, Christine
+987.50
+Crusher, Beverly
+456.00
+Data 
+1345.00
+Dax, Ezri
+789.88
+Picardo, Robert
+890.00
+Borg, Hugh
+888.88
+Tuvok
+770.75
+Uhura, Nyota
+565.00
+Kim, Harry
+767.77
+Kor
+345.89
+La Forge, Geordi
+555.90
+Lore
+456.78
+Marcus, Carol
+234.99
+McCoy, Leonard
+435.90
+Neelix
+345.55
+Nog
+766.89

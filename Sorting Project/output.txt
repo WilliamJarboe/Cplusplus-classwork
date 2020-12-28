@@ -1,0 +1,144 @@
+William Jarboe 
+Program 3
+
+Welcome to the SyfyPersons Program.
+============================================
+
+Sorted Syfy Entries by Name:
+SyfyPerson               Salary ($)           
+
+
+
+
+Baker,Tom              $ 1259.23 
+Bashir, Julian         $ 234     
+Borg Queen             $ 1345.99 
+Borg, Hugh             $ 888.88  
+Capaldi,Peter          $ 1125.54 
+Chapel, Christine      $ 987.5   
+Chekov, Pavel          $ 345.09  
+Crusher, Beverly       $ 456     
+Crusher, Wesley        $ 987     
+Data                   $ 1345    
+Dax, Ezri              $ 789.88  
+Eccleston,Christopher   $ 1411.56 
+Harkness, Jack         $ 1345    
+Jones, Martha          $ 987     
+Kim, Harry             $ 767.77  
+Kingston, Alex         $ 789     
+Kirk, James T.         $ 1456    
+Kor                    $ 345.89  
+La Forge, Geordi       $ 555.9   
+Lore                   $ 456.78  
+Marcus, Carol          $ 234.99  
+McCoy, Leonard         $ 435.9   
+Nardole                $ 1278.09 
+Neelix                 $ 345.55  
+Nobel, Donna           $ 1234.09 
+Noble,Donna            $ 1250.43 
+Nog                    $ 766.89  
+Number One             $ 1300    
+O'Brien, Miles         $ 1100    
+Oswald,Clara           $ 884.56  
+Paris, Tom             $ 222.22  
+Phlox                  $ 899     
+Picard, Luc            $ 1239    
+Picardo, Robert        $ 890     
+Pike, Christopher      $ 222     
+Pond,Amy               $ 1204.07 
+Potts, Bill            $ 234.09  
+Pulaski, Katherine     $ 1289    
+Q                      $ 1299    
+Rand, Janice           $ 1200    
+Riker, William         $ 991.1   
+Saavik                 $ 1001    
+Sasto, Hoshi           $ 876.66  
+Sisko, Benjamin        $ 999.99  
+Sisko, Jake            $ 222     
+Sisko, Jennifer        $ 998.99  
+Smith, Micky           $ 1100    
+Smith,Matt             $ 1433.65 
+Smith,Sarah            $ 1404.34 
+Song, River            $ 987.37  
+Spock                  $ 2340    
+Tennant,David          $ 1313    
+Torres, B'Elanna       $ 1100.11 
+Troi, Deanna           $ 100     
+Tuvok                  $ 770.75  
+Tyler, Rose            $ 908     
+Tyler,Rose             $ 1415.67 
+Uhura, Nyota           $ 565     
+Williams, Rory         $ 345.67  
+Worf                   $ 1100    
+Yar, Tasha             $ 444.44  
+of Nine, Seven         $ 1000    
+
+
+
+============================================
+
+Sorted Syfy Entries by Salary:
+SyfyPerson               Salary ($)           
+
+Spock                  $ 2340    
+Kirk, James T.         $ 1456    
+Smith,Matt             $ 1433.65 
+Tyler,Rose             $ 1415.67 
+Eccleston,Christopher   $ 1411.56 
+Smith,Sarah            $ 1404.34 
+Borg Queen             $ 1345.99 
+Data                   $ 1345    
+Harkness, Jack         $ 1345    
+Tennant,David          $ 1313    
+Number One             $ 1300    
+Q                      $ 1299    
+Pulaski, Katherine     $ 1289    
+Nardole                $ 1278.09 
+Baker,Tom              $ 1259.23 
+Noble,Donna            $ 1250.43 
+Picard, Luc            $ 1239    
+Nobel, Donna           $ 1234.09 
+Pond,Amy               $ 1204.07 
+Rand, Janice           $ 1200    
+Capaldi,Peter          $ 1125.54 
+Torres, B'Elanna       $ 1100.11 
+O'Brien, Miles         $ 1100    
+Smith, Micky           $ 1100    
+Worf                   $ 1100    
+Saavik                 $ 1001    
+of Nine, Seven         $ 1000    
+Sisko, Benjamin        $ 999.99  
+Sisko, Jennifer        $ 998.99  
+Riker, William         $ 991.1   
+Chapel, Christine      $ 987.5   
+Song, River            $ 987.37  
+Crusher, Wesley        $ 987     
+Jones, Martha          $ 987     
+Tyler, Rose            $ 908     
+Phlox                  $ 899     
+Picardo, Robert        $ 890     
+Borg, Hugh             $ 888.88  
+Oswald,Clara           $ 884.56  
+Sasto, Hoshi           $ 876.66  
+Dax, Ezri              $ 789.88  
+Kingston, Alex         $ 789     
+Tuvok                  $ 770.75  
+Kim, Harry             $ 767.77  
+Nog                    $ 766.89  
+Uhura, Nyota           $ 565     
+La Forge, Geordi       $ 555.9   
+Lore                   $ 456.78  
+Crusher, Beverly       $ 456     
+Yar, Tasha             $ 444.44  
+McCoy, Leonard         $ 435.9   
+Kor                    $ 345.89  
+Williams, Rory         $ 345.67  
+Neelix                 $ 345.55  
+Chekov, Pavel          $ 345.09  
+Marcus, Carol          $ 234.99  
+Potts, Bill            $ 234.09  
+Bashir, Julian         $ 234     
+Paris, Tom             $ 222.22  
+Pike, Christopher      $ 222     
+Sisko, Jake            $ 222     
+Troi, Deanna           $ 100     
