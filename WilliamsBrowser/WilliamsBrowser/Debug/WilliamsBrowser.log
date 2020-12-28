@@ -1,0 +1,12 @@
+﻿  mep.cpp
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(159,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(170,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(172,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(183,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(185,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(200,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(202,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comwp ODG\source\repos\WilliamsBrowser\WilliamsBrowser\mep.cpp(222,24): warning C4018: '<': signed/unsigned mismatch
+  WilliamsBrowser.vcxproj -> C:\Users\Comwp ODG\source\repos\WilliamsBrowser\Debug\WilliamsBrowser.exe
