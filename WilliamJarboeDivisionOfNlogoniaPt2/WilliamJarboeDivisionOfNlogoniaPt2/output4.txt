@@ -1,0 +1,17 @@
+William Jarboe 
+
+The division point is -1, -10
+    3    5  Kiowa
+  107  444  Kiowa
+  107  -10  Kiowa and Tepee
+  -33   -4  Comanche
+    0  -10  Kiowa and Tepee
+  -44  -10  Comanche and Nocona
+   -1  -10  Division Point.
+   -1  -80  Nocona and Tepee
+   -1   85  Comanche and Kiowa
+   54  -23  Tepee
+   54  908  Kiowa
+  -34    0  Comanche
+   -4   -1  Comanche
+   34   -8  Kiowa
